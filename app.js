@@ -95,7 +95,7 @@ removeItem.addEventListener("click", () => {
         setTimeout(() => {
             divAlert.removeChild(label);
             divAlert.classList.remove("alert", "alert-danger");
-        }, 1000);
+        }, 3000);
     }
 });
 const vm = Vue.createApp({
