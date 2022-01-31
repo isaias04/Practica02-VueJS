@@ -116,7 +116,7 @@ const mascotas = [
         edad: 2,
     },
     {
-        nombre: "Thor",
+        nombre: "Thorffin",
         edad: 7,
     },
     {
@@ -132,7 +132,7 @@ const mascotas = [
         edad: 10,
     },
     {
-        nombre: "Simba",
+        nombre: "Kalimba",
         edad: 8,
     },
 ];
